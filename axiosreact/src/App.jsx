@@ -4,6 +4,8 @@
 import './App.css'
 import React from 'react';
 import FetchData from './FetchData';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 // import axios from './axios';
 
